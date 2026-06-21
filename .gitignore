@@ -1,0 +1,38 @@
+# ==========================================
+# Iven Stone Neo Ultra Catalog - .gitignore
+# ==========================================
+
+# --- Arquivos de Sistema Operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# --- Arquivos Temporários de Edição ---
+*.tmp
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- Assets Pesados (Use Git LFS se precisar versionar) ---
+# Descomente as linhas abaixo se quiser evitar subir vídeos/raws
+# *.mp4
+# *.mov
+# *.psd
+# *.ai
+# *.indd
+
+# --- Pastas de Cache e Build ---
+node_modules/
+dist/
+build/
+.cache/
+temp/
+
+# --- Arquivos Sensíveis (NUNCA suba senhas/tokens) ---
+.env
+.env.local
+*.key
+credentials.json
