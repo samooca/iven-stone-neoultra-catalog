@@ -6,7 +6,7 @@
 
 ## 🎯 Visão Geral do Projeto
 
-O Catálogo Neo Ultra é uma publicação editorial de luxo que posiciona a Iven Stone como referência absoluta em superfícies ultracompactas de alto padrão. Mais do que um mostruário de produtos, é uma **ferramenta estratégica de vendas** integrada ao showroom de 5.000m², projetada para seduzir arquitetos, influenciar marmoristas e validar escolhas junto aos clientes finais.
+O Catálogo Neo Ultra é uma publicação editorial de luxo que posiciona a Iven Stone como referência absoluta em superfícies ultracompactas de alto padrão. Mais do que um mostruário de produtos, é uma **ferramenta estratégica de vendas** integrada ao showroom com mais de 1.000m², projetada para seduzir arquitetos, influenciar marmoristas e validar escolhas junto aos clientes finais.
 
 ### Conceito Central
 **"A Moldura Invisível"** — O design desaparece para que a pedra seja a única protagonista. Minimalismo, respiro visual e ritmo editorial inspirados em publicações como *Architectural Digest* e *Wallpaper**.
@@ -141,7 +141,7 @@ iven-stone-neoultra-catalog/
 
 ##  Integração com Showroom
 
-O catálogo é parte de um **ecossistema phygital** (físico + digital) de 5.000m²:
+O catálogo é parte de um **ecossistema phygital** (físico + digital) de mais de 1.000m²:
 
 ### Jornada do Visitante
 1. **Chegada:** Ambientes simulados (cozinha, sala, lavabo) com materiais reais
