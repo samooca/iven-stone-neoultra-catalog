@@ -82,7 +82,7 @@ O catálogo segue um **ritmo de revista de arquitetura** com máximo de 4 produt
 - **Bleed crossover:** Imagens que vazam 20-30% da próxima página
 
 ---
-"
+```
 ## 📦 Estrutura do Repositório
 iven-stone-neoultra-catalog/
 ├── README.md # Este arquivo (visão geral do projeto)
@@ -113,7 +113,7 @@ iven-stone-neoultra-catalog/
 ├── workflows/ # JSONs dos fluxos ComfyUI
 ├── prompts/ # Banco de prompts otimizados
 └── docs/ # Documentação técnica
-"
+```
 ---
 
 ## 🛠 Tech Stack de Produção
