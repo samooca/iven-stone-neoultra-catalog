@@ -1,7 +1,7 @@
-![[Pasted image 20260621061446.png|495]]
+<img width="484" height="186" alt="image" src="https://github.com/user-attachments/assets/73c9c882-d442-4e6b-83f0-5c6e58c8e9ed" />
 
 
-![[Pasted image 20260621061801.png|495]]
+<img width="464" height="491" alt="image" src="https://github.com/user-attachments/assets/911e0c61-29d6-46a2-949b-e3cdecfa65ad" />
 
 https://business.adobe.com/products/experience-platform/agent-orchestrator.html
 https://business.adobe.com/products/genstudio.html
@@ -15,11 +15,13 @@ https://business.adobe.com/products.html?ch_All+Products=AI%2520%2526%2520agents
 CUSTOM MODELOS FIREFLY:
 https://business.adobe.com/products/firefly-business/custom-models.html
 
-![[Pasted image 20260621063402.png]]
+<img width="1354" height="608" alt="image" src="https://github.com/user-attachments/assets/d4d0c274-bc97-46f3-a313-86cff166e3ff" />
+
 
 
 https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills#planning--workflow
-![[Pasted image 20260621063654.png]]
+<img width="608" height="310" alt="image" src="https://github.com/user-attachments/assets/1ed2bbbb-65eb-4797-a86b-58b92e7d6544" />
+
 
 Skill para brainstorm:
 https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/brainstorming/SKILL.md
